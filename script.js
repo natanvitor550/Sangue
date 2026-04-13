@@ -9,5 +9,7 @@ document.getElementById("FormSangue").addEventListener("submit", function (e) {
     let cidade = document.getElementById("cidade").value;
 
 
+    let verisobrenome = nome.split(" ")
+    
     alert("Cadastro realizado com sucesso! " + nome);
 })
