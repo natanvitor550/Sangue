@@ -10,6 +10,9 @@ body{
     color:rgba(197, 32, 10, 0.925);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 
+    background-image: url("assets/wallpapersangue.png");
+    background-size: cover;
+
     text-align: center;
     justify-content: center;
     display: flex;
