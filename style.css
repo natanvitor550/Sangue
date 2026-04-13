@@ -1,0 +1,16 @@
+.caixa{
+    background-color:darkgray;
+    padding: 20px;
+    margin: 10px;
+    width: 400px;
+}
+
+body{
+    background-color: rgb(105, 28, 28);
+    color:rgba(197, 32, 10, 0.925);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
